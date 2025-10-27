@@ -15,7 +15,7 @@ To run the project locally:
 
 1. **Clone this repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Prekshabarjatya/Pedro-Gino.git
    ```
 
 2. **Navigate to the project folder:**
