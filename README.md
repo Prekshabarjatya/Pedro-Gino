@@ -2,14 +2,12 @@
 
 This repository contains my completed version of the project built while learning React.
 
----
 
 ## About This Project
 
 This is a personal project I built while following the **Complete Intro to React, v9** course by Brian Holt.  
 It walks through modern React concepts, including hooks, routing, state management.
 
----
 
 ## Setup Instructions
 
@@ -44,7 +42,6 @@ To run the project locally:
 
 The `api` directory can be used to simulate a simple backend API during development.
 
----
 
 ## Learning Highlights
 
@@ -56,13 +53,10 @@ Through this course and project, I learned how to:
 * Integrate APIs and handle async data
 * Structure and deploy modern React apps
 
----
 
 ## Issues & Contributions
 
 If you spot any issues with the project, feel free to open a pull request or issue here.  
-
----
 
 ## Credits & License
 
