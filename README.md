@@ -20,7 +20,7 @@ To run the project locally:
 
 2. **Navigate to the project folder:**
    ```bash
-   cd <project-folder>
+   cd "Pedro Gino"
    ```
 
 3. **Install dependencies:**
