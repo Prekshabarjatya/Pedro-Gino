@@ -1,4 +1,4 @@
-# Pedro Gino
+# Padre Gino
 
 This repository contains my completed version of the project built while learning React.
 
